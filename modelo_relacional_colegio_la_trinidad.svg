@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="78 122 874 580" width="796px" height="458px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="236" y1="190" x2="246" y2="190" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="621" y1="167" x2="631" y2="167" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="246" y1="190" x2="621" y2="167" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="243.5" y1="190" x2="239.96446609407" y2="193.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="243.5" y1="190" x2="239.96446609407" y2="186.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="626" y1="167" x2="622.46446609407" y2="170.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="626" y1="167" x2="622.46446609407" y2="163.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="236" y1="210" x2="246" y2="210" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="458" y1="306" x2="468" y2="306" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="246" y1="210" x2="458" y2="306" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="243.5" y1="210" x2="239.96446609407" y2="213.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="243.5" y1="210" x2="239.96446609407" y2="206.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="463" y1="306" x2="459.46446609407" y2="309.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="463" y1="306" x2="459.46446609407" y2="302.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="410" y1="505" x2="400" y2="505" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="458" y1="306" x2="468" y2="306" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="400" y1="505" x2="458" y2="306" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="402.5" y1="505" x2="406.03553390593" y2="508.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="402.5" y1="505" x2="406.03553390593" y2="501.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="463" y1="306" x2="459.46446609407" y2="309.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="463" y1="306" x2="459.46446609407" y2="302.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="553" y1="525" x2="563" y2="525" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="730" y1="535" x2="740" y2="535" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="563" y1="525" x2="730" y2="535" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="560.5" y1="525" x2="556.96446609407" y2="528.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="560.5" y1="525" x2="556.96446609407" y2="521.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="735" y1="535" x2="731.46446609407" y2="538.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="735" y1="535" x2="731.46446609407" y2="531.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="263" y1="497" x2="273" y2="497" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="458" y1="306" x2="468" y2="306" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="273" y1="497" x2="458" y2="306" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="270.5" y1="497" x2="266.96446609407" y2="500.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="270.5" y1="497" x2="266.96446609407" y2="493.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="463" y1="306" x2="459.46446609407" y2="309.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="463" y1="306" x2="459.46446609407" y2="302.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="120" y1="517" x2="110" y2="517" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="107" y1="337" x2="117" y2="337" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="110" y1="517" x2="107" y2="337" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="112.5" y1="517" x2="116.03553390593" y2="520.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="112.5" y1="517" x2="116.03553390593" y2="513.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="112" y1="337" x2="108.46446609407" y2="340.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="112" y1="337" x2="108.46446609407" y2="333.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <rect width="143" height="20" x="631" y="137" style="fill:#007;stroke:black;"/>
+   <text width="143" height="20" x="636" y="151" style="fill:#fff;" font-family="Arial" font-size="16px"> autor</text>
+   <rect width="143" height="20" x="631" y="157" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="636" y="171" style="fill:black;" font-family="Arial" font-size="16px">codigo_autor</text>
+   <rect width="143" height="20" x="631" y="177" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="636" y="191" style="fill:black;" font-family="Arial" font-size="16px">nombre</text>
+   <rect width="143" height="20" x="631" y="197" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="636" y="211" style="fill:black;" font-family="Arial" font-size="16px">apellido</text>
+   <rect width="143" height="20" x="740" y="505" style="fill:#007;stroke:black;"/>
+   <text width="143" height="20" x="745" y="519" style="fill:#fff;" font-family="Arial" font-size="16px"> editorial</text>
+   <rect width="143" height="20" x="740" y="525" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="745" y="539" style="fill:black;" font-family="Arial" font-size="16px">codigo_editorial</text>
+   <rect width="143" height="20" x="740" y="545" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="745" y="559" style="fill:black;" font-family="Arial" font-size="16px">nombre</text>
+   <rect width="143" height="20" x="117" y="307" style="fill:#007;stroke:black;"/>
+   <text width="143" height="20" x="122" y="321" style="fill:#fff;" font-family="Arial" font-size="16px"> lector</text>
+   <rect width="143" height="20" x="117" y="327" style="fill:#aea;stroke:black;"/>
+   <text width="143" height="20" x="122" y="341" style="fill:black;" font-family="Arial" font-size="16px">codigo_lector</text>
+   <rect width="143" height="20" x="117" y="347" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="122" y="361" style="fill:black;" font-family="Arial" font-size="16px">nombre</text>
+   <rect width="143" height="20" x="117" y="367" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="122" y="381" style="fill:black;" font-family="Arial" font-size="16px">apellido_paterno</text>
+   <rect width="143" height="20" x="117" y="387" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="122" y="401" style="fill:black;" font-family="Arial" font-size="16px">apellido_materno</text>
+   <rect width="143" height="20" x="468" y="276" style="fill:#007;stroke:black;"/>
+   <text width="143" height="20" x="473" y="290" style="fill:#fff;" font-family="Arial" font-size="16px"> libro</text>
+   <rect width="143" height="20" x="468" y="296" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="473" y="310" style="fill:black;" font-family="Arial" font-size="16px">codigo_libro</text>
+   <rect width="143" height="20" x="468" y="316" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="473" y="330" style="fill:black;" font-family="Arial" font-size="16px">titulo</text>
+   <rect width="143" height="20" x="468" y="336" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="473" y="350" style="fill:black;" font-family="Arial" font-size="16px">fecha_registro</text>
+   <rect width="143" height="20" x="468" y="356" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="473" y="370" style="fill:black;" font-family="Arial" font-size="16px">fecha_modificacion</text>
+   <rect width="143" height="20" x="93" y="140" style="fill:#007;stroke:black;"/>
+   <text width="143" height="20" x="98" y="154" style="fill:#fff;" font-family="Arial" font-size="16px"> libro_autor</text>
+   <rect width="143" height="20" x="93" y="160" style="fill:#aea;stroke:black;"/>
+   <text width="143" height="20" x="98" y="174" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="143" height="20" x="93" y="180" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="98" y="194" style="fill:black;" font-family="Arial" font-size="16px">codigo_autor</text>
+   <rect width="143" height="20" x="93" y="200" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="98" y="214" style="fill:black;" font-family="Arial" font-size="16px">codigo_libro</text>
+   <rect width="143" height="20" x="410" y="475" style="fill:#007;stroke:black;"/>
+   <text width="143" height="20" x="415" y="489" style="fill:#fff;" font-family="Arial" font-size="16px"> libro_editorial</text>
+   <rect width="143" height="20" x="410" y="495" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="415" y="509" style="fill:black;" font-family="Arial" font-size="16px">codigo_libro</text>
+   <rect width="143" height="20" x="410" y="515" style="fill:#aea;stroke:black;"/>
+   <text width="143" height="20" x="415" y="529" style="fill:black;" font-family="Arial" font-size="16px">codigo_editorial</text>
+   <rect width="143" height="20" x="120" y="467" style="fill:#007;stroke:black;"/>
+   <text width="143" height="20" x="125" y="481" style="fill:#fff;" font-family="Arial" font-size="16px"> prestamos</text>
+   <rect width="143" height="20" x="120" y="487" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="125" y="501" style="fill:black;" font-family="Arial" font-size="16px">codigo_libro</text>
+   <rect width="143" height="20" x="120" y="507" style="fill:#aea;stroke:black;"/>
+   <text width="143" height="20" x="125" y="521" style="fill:black;" font-family="Arial" font-size="16px">codigo_lector</text>
+   <rect width="143" height="20" x="120" y="527" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="125" y="541" style="fill:black;" font-family="Arial" font-size="16px">fecha_devolucion</text>
+</svg>
